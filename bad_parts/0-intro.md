@@ -5,16 +5,11 @@
 
 !SLIDE
 
-## Ruby Language
-# The Bad Parts
+## The Ruby Language
+# Bad Parts
 
 !SLIDE
 
-## Ruby Language
-# The Ugly Parts
-
-!SLIDE
-
-## Ruby Language
+## The Ruby Language
 # ...is Broken by Design
 
