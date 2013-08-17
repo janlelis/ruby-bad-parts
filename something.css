@@ -1,0 +1,21 @@
+body {
+  color: #222;
+  background: #dde;
+}
+
+h1 {
+  color: #334;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #19579E;
+}
+
+.smaller-code code {
+    font-size: 47%;
+}
+
+.small-code code {
+  font-size: 65%;
+}

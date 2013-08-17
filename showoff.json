@@ -1,0 +1,9 @@
+{
+  "name": "Ruby Lightning Talk",
+  "description": "The ugly parts of Ruby",
+  "author": "Jan Lelis",
+  "pause_msg": "pause",
+  "sections": [
+    {"section":"bad_parts"}
+  ]
+}
