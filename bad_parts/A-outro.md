@@ -27,6 +27,6 @@
 !SLIDE
 
 # Keep Using Ruby!
-## Slides at http://bit.ly/broken-ruby
+## Slides at <a href="http://bit.ly/ruby-bad-parts">bit.ly/ruby-bad-parts</a>
 
 CC-BY Jan Lelis

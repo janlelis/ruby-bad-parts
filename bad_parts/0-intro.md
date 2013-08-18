@@ -11,5 +11,10 @@
 !SLIDE
 
 ## The Ruby Language
+# Ugly Edge Cases
+
+!SLIDE
+
+## The Ruby Language
 # ...is Broken by Design
 

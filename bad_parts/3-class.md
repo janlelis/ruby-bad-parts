@@ -1,5 +1,17 @@
 !SLIDE
 
+    @@@ruby
+    >> module Eurucamp end
+    # => ?
+
+!SLIDE
+
+    @@@ruby
+    >> module Eurucamp end
+    # => nil
+
+!SLIDE
+
     @@@ ruby
     >> class Eurucamp end
     # => ?
@@ -10,14 +22,3 @@
     >> class Eurucamp end
     # syntax error, unexpected $end
 
-!SLIDE
-
-    @@@ruby
-    >> module Eurucamp end
-    # => ?
-
-!SLIDE
-
-    @@@ruby
-    >> module Eurucamp end
-    # => nil
