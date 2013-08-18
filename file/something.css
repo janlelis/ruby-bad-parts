@@ -1,0 +1,25 @@
+body {
+  color: #222;
+  background: #dde;
+}
+
+h1 {
+  color: #334;
+}
+
+pre{
+   margin-top: -15%;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #19579E;
+}
+
+.small-code code {
+  font-size: 65%;
+}
+
+.small-code pre {
+  margin-top: 0px;
+}
