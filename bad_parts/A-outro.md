@@ -27,6 +27,6 @@
 !SLIDE
 
 # Keep Using Ruby!
-## Slides at <a href="http://is.gd/ruby_bad_parts">is.gd/ruby_bad_parts</a>
+## Slides at <a href="http://is.gd/ruby_bad_parts">is.gd/ruby\_bad\_parts</a>
 
 CC-BY Jan Lelis
